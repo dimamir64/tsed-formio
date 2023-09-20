@@ -1,0 +1,4 @@
+import{j as m}from"./jsx-runtime-91a467a5.js";import{L as a}from"./loader.component-39d24c94.js";import"./index-8db94870.js";import"./_commonjsHelpers-042e6b4d.js";import"./index-582f377c.js";import"./index-1fc0ca9a.js";import"./iconClass-2475e694.js";import"./index-ada0d705.js";import"./FormBuilder-73f16bf0.js";import"./_commonjs-dynamic-modules-302442b1.js";import"./choices-5b1be226.js";const S={title:"ReactFormio/Loader",component:a,argTypes:{},parameters:{}},r=s=>m(a,{...s});r.args={isActive:!0};var o,t,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`(args: any) => {
+  return <Loader {...args} />;
+}`,...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const _=["Sandbox"];export{r as Sandbox,_ as __namedExportsOrder,S as default};
+//# sourceMappingURL=loader.stories-6b1699b9.js.map

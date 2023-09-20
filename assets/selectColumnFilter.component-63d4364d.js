@@ -1,0 +1,2 @@
+import{j as n}from"./jsx-runtime-91a467a5.js";import{S as m}from"./select.component-b071a5d3.js";function d({column:t}){const{id:i,preFilteredRows:s,filterValue:l,setFilter:o}=t,{choices:r}=t,a=r||[...new Set(s.map(e=>e.values[i]))].filter(e=>e).map(e=>({label:e,value:e}));return n(m,{name:`filter-${t.id}`,size:"sm",value:l,choices:[{value:"",label:"All"}].concat(a),onChange:(e,c)=>{o(c||void 0)}},`filter-${t.id}`)}export{d as S};
+//# sourceMappingURL=selectColumnFilter.component-63d4364d.js.map
